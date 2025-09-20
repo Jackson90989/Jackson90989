@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jackson Rodrigues!
 
-<!--
-**Jackson90989/Jackson90989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Computação | 💻 Desenvolvedor em formação  
+🚀 Focado em Front-end (React, JS) e Back-end (Node.js, Python, SQL)  
+📚 Sempre estudando novas tecnologias e boas práticas de programação  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical)
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/rodriguesjackson/)
+- ✉️ Email: jacksonrodriguessilva10@gmail.com

@@ -48,25 +48,17 @@ consegue fazer para esses também?
 
 ---
 
-## Projetos em Destaque
+## ## Projetos em Destaque
 
 ### [Acervo Digital](https://github.com/Jackson90989/acervo-digital-hub)  
 Sistema web para postar livros, jogos e filmes.  
-**Tecnologias:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&color=61DAFB&labelColor=0A0A0A) 
-![Node.js](https://img.shields.io/badge/Node.js-8BC34A?style=for-the-badge&logo=node.js&logoColor=0A0A0A&color=8BC34A&labelColor=0A0A0A) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8C00FF?style=for-the-badge&logo=postgresql&logoColor=0A0A0A&color=8C00FF&labelColor=0A0A0A)  
+**Tecnologias:** React Vite, Node.js, PostgreSQL  
 
 ---
 
 ### [Sistema de Doação de Sangue](https://github.com/Jackson90989/doe-vida-novo-)  
 Aplicação web para cadastro de doadores, locais de coleta e eventos.  
-**Tecnologias:**  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6&labelColor=0A0A0A) 
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=0A0A0A&color=38BDF8&labelColor=0A0A0A) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26&labelColor=0A0A0A) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=0A0A0A)
-
+**Tecnologias:** CSS, Tailwind, HTML, JavaScript 
 
 ---
 

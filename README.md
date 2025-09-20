@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou o Jackson Rodrigues!
+# Olá, eu sou o Jackson Rodrigues!
 
 🎓 Estudante de Engenharia de Computação (4º ano) – Bolsista ProUni na Esamc Campinas  
-💻 Apaixonado por **Desenvolvimento Web** e **Infraestrutura de TI**  
-🚀 Objetivo: tornar-me Desenvolvedor Web criando sites modernos, com **efeitos avançados e funcionalidades completas**  
-🔧 Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware  
+💻 Apaixonado por **Desenvolvimento** e **TI**  
+🚀 Objetivo: tornar-me um profissional gamificado na Área
+🔧 Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware, Desenvolvimento de Web Sites e Aplicativos
 
 ---
 
@@ -41,35 +41,22 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Portal do Aluno](https://github.com/JacksonRodrigues/portal-aluno)  
-Sistema web/mobile para alunos acompanharem notas, frequência e comunicados.  
-**Tecnologias:** React Native, Node.js, PostgreSQL  
+### 🔹 [Acervo Digital](https://github.com/Jackson90989/acervo-digital-hub)  
+Sistema web para postar livros, jogos e filmes.  
+**Tecnologias:** React Vite, Node.js, PostgreSQL  
 
 ---
 
-### 🔹 [Sistema de Doação de Sangue](https://github.com/JacksonRodrigues/doacao-sangue)  
+### 🔹 [Sistema de Doação de Sangue](https://github.com/Jackson90989/doe-vida-novo-)  
 Aplicação web para cadastro de doadores, locais de coleta e eventos.  
-**Tecnologias:** HTML, CSS, JavaScript, PHP, MySQL  
-
----
-
-### 🔹 [Jogo Interativo – Aventura com Alex](https://github.com/JacksonRodrigues/jogo-aventura)  
-História interativa com múltiplos finais, desenvolvida em JavaScript.  
-**Tecnologias:** Node.js, JavaScript (ES6+), DOM Manipulation  
-
----
-
-### 🔹 [Infraestrutura IP com FreePBX e Asterisk](https://github.com/JacksonRodrigues/infra-voip)  
-Documentação e configuração de uma infraestrutura de telefonia IP.  
-**Tecnologias:** FreePBX, Asterisk, Cisco, Linux  
+**Tecnologias:** CSS, Tailwind, HTML, JavaScript 
 
 ---
 
 ## 📫 Onde me encontrar
-- 🌐 [LinkedIn](https://linkedin.com/in/jackson-rodrigues)  
-- ✉️ **Email:** jacksonrodriguessilva10@gmail.com  
-- 📱 **Telefone:** (19) 97114-7151  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rodriguesjackson/)  
+- ✉️ **Email:** jacksonrodriguessilva2@gmail.com  
 
 ---
 
-✨ “A tecnologia é a ponte entre a criatividade e a inovação.”  
+“A tecnologia é a ponte entre a criatividade e a inovação.”  

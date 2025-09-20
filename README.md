@@ -36,8 +36,8 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware,
 ---
 
 ## Estatísticas do GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical&locale=pt-BR&border_color=FF69B4)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical&locale=pt-BR&border_color=FF69B4)
 
 ---
 

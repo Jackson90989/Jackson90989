@@ -10,7 +10,7 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware,
 ##  Tecnologias & Ferramentas
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-![GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 
 ### Front-end

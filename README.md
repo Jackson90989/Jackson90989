@@ -35,7 +35,8 @@
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=JacksonRodrigues&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonRodrigues&layout=compact&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+
 
 ---
 

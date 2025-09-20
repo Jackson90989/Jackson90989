@@ -10,27 +10,28 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware,
 ##  Tecnologias & Ferramentas
 
 ### Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=1A1A1A)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&labelColor=1A1A1A)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&color=61DAFB&labelColor=1A1A1A)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26&labelColor=1A1A1A)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6&labelColor=1A1A1A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E&labelColor=0A0A0A)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&labelColor=0A0A0A)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&color=61DAFB&labelColor=0A0A0A)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26&labelColor=0A0A0A)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6&labelColor=0A0A0A)
 
 ### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=43853D&labelColor=1A1A1A)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=ED8B00&labelColor=1A1A1A)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB&labelColor=1A1A1A)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=00599C&labelColor=1A1A1A)
+![Node.js](https://img.shields.io/badge/Node.js-8BC34A?style=for-the-badge&logo=node.js&logoColor=0A0A0A&color=8BC34A&labelColor=0A0A0A)
+![Java](https://img.shields.io/badge/Java-FF6D00?style=for-the-badge&logo=openjdk&logoColor=0A0A0A&color=FF6D00&labelColor=0A0A0A)
+![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=0A0A0A&color=00FFFF&labelColor=0A0A0A)
+![C](https://img.shields.io/badge/C-FF00FF?style=for-the-badge&logo=c&logoColor=0A0A0A&color=FF00FF&labelColor=0A0A0A)
 
 ### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=316192&labelColor=1A1A1A)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white&color=025E8C&labelColor=1A1A1A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8C00FF?style=for-the-badge&logo=postgresql&logoColor=0A0A0A&color=8C00FF&labelColor=0A0A0A)
+![SQL](https://img.shields.io/badge/SQL-00FF9C?style=for-the-badge&logo=database&logoColor=0A0A0A&color=00FF9C&labelColor=0A0A0A)
 
 ### Infraestrutura & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=FCC624&labelColor=1A1A1A)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032&labelColor=1A1A1A)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=1A1A1A)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED&labelColor=1A1A1A)
+![Linux](https://img.shields.io/badge/Linux-FF1493?style=for-the-badge&logo=linux&logoColor=0A0A0A&color=FF1493&labelColor=0A0A0A)
+![Git](https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=0A0A0A&color=00FFFF&labelColor=0A0A0A)
+![GitHub](https://img.shields.io/badge/GitHub-FF00AA?style=for-the-badge&logo=github&logoColor=0A0A0A&color=FF00AA&labelColor=0A0A0A)
+![Docker](https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=0A0A0A&color=1E90FF&labelColor=0A0A0A)
+badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED&labelColor=1A1A1A)
 
 ---
 

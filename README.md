@@ -62,6 +62,17 @@ Aplicação web para cadastro de doadores, locais de coleta e eventos.
 
 ---
 
+╔════════════════════════════════════╗
+║ 💉 Aplicação web para cadastro de  ║
+║ doadores, visualização de locais   ║
+║ de coleta e eventos de doação.     ║
+║                                    ║
+║ 🔗 [GitHub](https://github.com/Jackson90989/doe-vida-novo-) ║
+║ 🛠 Tecnologias: HTML, CSS, Tailwind, JavaScript ║
+╚════════════════════════════════════╝
+
+---
+
 ### Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguesjackson/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonrodriguessilva2@gmail.com)  

@@ -48,7 +48,7 @@ consegue fazer para esses também?
 
 ---
 
-## ## Projetos em Destaque
+## Projetos em Destaque
 
 ### [Acervo Digital](https://github.com/Jackson90989/acervo-digital-hub)  
 Sistema web para postar livros, jogos e filmes.  

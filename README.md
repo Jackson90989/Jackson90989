@@ -9,10 +9,6 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware,
 
 ##  Tecnologias & Ferramentas
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-
-
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)

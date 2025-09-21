@@ -1,9 +1,9 @@
 # Olá, eu sou o Jackson Rodrigues!
 
-Estudante de Engenharia de Computação (5º Semestre) – 
-Apaixonado por **Desenvolvimento** e **TI**
-Objetivo: tornar-me um profissional gamificado na Área
-Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware, Desenvolvimento de Web Sites e Aplicativos
+Estudante de Engenharia de Computação (5º Semestre) – <br>
+Apaixonado por **Desenvolvimento** e **TI**  <br>
+Objetivo: tornar-me um profissional gamificado na Área <br>
+Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware, Desenvolvimento de Web Sites e Aplicativos <br>
 
 ---
 

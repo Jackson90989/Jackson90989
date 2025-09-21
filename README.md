@@ -53,7 +53,7 @@ Sistema web para postar livros, jogos e filmes.
 ---
 
 ### [Sistema de Doação de Sangue](https://github.com/Jackson90989/doe-vida-novo-)  
-Aplicação web para cadastro de doadores, locais de coleta e eventos.  
+Layout web para cadastro de doadores, locais de coleta e eventos.  
 **Tecnologias:** CSS, Tailwind, HTML, JavaScript 
 
 ---

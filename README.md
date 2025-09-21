@@ -16,6 +16,7 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,8 +41,6 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware,
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical&locale=pt-BR&border_color=FF00FF&text_color=00FFFF&icon_color=FF00FF&bg_color=0A0A0A)  
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical&locale=pt-BR&border_color=FF00FF&text_color=00FFFF&icon_color=FF00FF&bg_color=0A0A0A&langs_count=10)
-
-
 
 ---
 

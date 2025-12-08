@@ -1,4 +1,4 @@
-![Minha Imagem](./imagem.svg)
+![Minha Imagem](./ibmhacktoberfest2025.svg)
 
 
 # Olá, eu sou o Jackson Rodrigues!

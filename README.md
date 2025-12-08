@@ -37,19 +37,18 @@ Experiência em Redes de Computadores, Suporte em TI, Manutenção de Hardware e
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical" 
+  <img
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical"
        alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical" 
+  <img
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical"
        alt="Top Langs"
   />
 </p>

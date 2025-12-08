@@ -1,16 +1,19 @@
+<p align="center">
+  <img src="./ibmhacktoberfest2025.svg" width="150">
+</p>
+
 # Olá, eu sou o Jackson Rodrigues!
 
 Estudante de Engenharia de Computação (5º Semestre) – <br>
-Apaixonado por **Desenvolvimento** e **TI**  <br>
+Apaixonado por **Desenvolvimento** e **TI** <br>
 Objetivo: tornar-me um profissional gamificado na Área <br>
-Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware e Desenvolvimento <br>
+Experiência em Redes de Computadores, Suporte em TI, Manutenção de Hardware e Desenvolvimento <br>
 
 ---
 
-##  Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Front-end
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,8 +25,6 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,33 +39,45 @@ Experiência em Redes de Computadores, Suporte em TI e Manutenção de Hardware 
 ---
 
 ## Estatísticas do GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical&locale=pt-BR&border_color=FF00FF&text_color=00FFFF&icon_color=FF00FF&bg_color=0A0A0A)  
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical&locale=pt-BR&border_color=FF00FF&text_color=00FFFF&icon_color=FF00FF&bg_color=0A0A0A&langs_count=10)
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical" 
+       alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical" 
+       alt="Top Langs"
+  />
+</p>
 
 ---
 
 ## Projetos em Destaque
 
-### [Acervo Digital](https://github.com/Jackson90989/acervo-digital-hub)  
+### [Acervo Digital](https://github.com/Jackson90989/acervo-digital-hub)
 Sistema web para postar livros, jogos e filmes.  
 **Tecnologias:** React Vite, Node.js, PostgreSQL  
 
 ---
 
-### [Sistema de Doação de Sangue](https://github.com/Jackson90989/doe-vida-novo-)  
+### [Sistema de Doação de Sangue](https://github.com/Jackson90989/doe-vida-novo-)
 Layout web para cadastro de doadores, locais de coleta e eventos.  
-**Tecnologias:** CSS, Tailwind, HTML, JavaScript 
+**Tecnologias:** CSS, Tailwind, HTML, JavaScript
 
 ---
 
-### Onde me encontrar
+## Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguesjackson/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonrodriguessilva2@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonrodriguessilva2@gmail.com)
 
 ---
 
-“A tecnologia é a ponte entre a criatividade e a inovação.”  
+<p align="center"><i>“A tecnologia é a ponte entre a criatividade e a inovação.”</i></p>
+
 
 
 

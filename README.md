@@ -36,7 +36,7 @@ Experiência em Redes de Computadores, Suporte em TI, Manutenção de Hardware e
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+<!--
 ## Estatísticas do GitHub
 
 <p align="center">
@@ -52,8 +52,7 @@ Experiência em Redes de Computadores, Suporte em TI, Manutenção de Hardware e
        alt="Top Langs"
   />
 </p>
-
----
+-->
 
 ## Projetos em Destaque
 

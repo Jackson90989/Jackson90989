@@ -42,14 +42,14 @@ Experiência em Redes de Computadores, Suporte em TI, Manutenção de Hardware e
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jackson90989&show_icons=true&theme=radical" 
        alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jackson90989&layout=compact&theme=radical" 
        alt="Top Langs"
   />
 </p>
@@ -77,7 +77,4 @@ Layout web para cadastro de doadores, locais de coleta e eventos.
 ---
 
 <p align="center"><i>“A tecnologia é a ponte entre a criatividade e a inovação.”</i></p>
-
-
-
 

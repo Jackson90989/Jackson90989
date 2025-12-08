@@ -1,6 +1,8 @@
-<div style="text-align: center;">
-  <img src="ibmhacktoberfest2025./svg" width="120px" />
-</div>
+
+
+<p align="center">
+  <img src="./ibmhacktoberfest2025.svg" width="150">
+</p>
 
 
 # Olá, eu sou o Jackson Rodrigues!

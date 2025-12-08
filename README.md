@@ -1,4 +1,6 @@
-![Minha Imagem](./ibmhacktoberfest2025.svg)
+<div style="text-align: center;">
+  <img src="./imagem.svg" width="120px" />
+</div>
 
 
 # Olá, eu sou o Jackson Rodrigues!

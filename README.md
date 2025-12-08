@@ -1,10 +1,3 @@
-
-
-<p align="center">
-  <img src="./ibmhacktoberfest2025.svg" width="150">
-</p>
-
-
 # Olá, eu sou o Jackson Rodrigues!
 
 Estudante de Engenharia de Computação (5º Semestre) – <br>

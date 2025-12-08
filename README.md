@@ -1,3 +1,6 @@
+![Minha Imagem](./imagem.svg)
+
+
 # Olá, eu sou o Jackson Rodrigues!
 
 Estudante de Engenharia de Computação (5º Semestre) – <br>

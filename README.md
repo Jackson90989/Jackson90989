@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="./imagem.svg" width="120px" />
+  <img src="ibmhacktoberfest2025./svg" width="120px" />
 </div>
 
 
